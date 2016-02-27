@@ -1,5 +1,5 @@
 echo "Install CkEditor via bower.."
-bower install
+bower install --allow-root
 
 echo "Done. Clone KCFinder.."
 git clone git@github.com:sunhater/kcfinder.git
